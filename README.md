@@ -11,4 +11,5 @@
             <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
         </a>
     </div>
+    <img src="https://komarev.com/ghpvc/?username=bielzaoo&style=flat-square&color=blue" alt=""/>
 </div>
