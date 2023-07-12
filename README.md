@@ -17,9 +17,9 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div align="center">
-      <img src="https://raw.githubusercontent.com/bielzaoo/my_gif/main/wallpaper%20bielzao.gif?token=GHSAT0AAAAAACE6D7MAR2AJT45CEGDDDCHAZFNS44Q" width="600" height="300"/>
+      <img src="https://raw.githubusercontent.com/bielzaoo/my_gi/main/wallpaper%20bielzao.gif?token=GHSAT0AAAAAACE6D7MAR2AJT45CEGDDDCHAZFNS44Q" width="600" height="300"/>
     </div>
-</div>
+</div>f
 
 ---
 
