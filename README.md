@@ -20,7 +20,7 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div align="center">
-      <img src="https://raw.githubusercontent.com/bielzaoo/my_gif/main/wallpaper%20bielzao.gif?token=GHSAT0AAAAAACE6D7MAGNOTQWD7XLO4YHXKZFOAKSQ" width="600" height="300"/>
+      <img src="https://www.canva.com/design/DAFnIqeEC9w/LIkF36taEjTvkz4e6i2Pdw/watch?utm_content=DAFnIqeEC9w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="600" height="300"/>
     </div>
 </div>
 
