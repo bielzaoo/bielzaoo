@@ -19,7 +19,7 @@
     <div align="center">
       <img src="https://raw.githubusercontent.com/bielzaoo/my_gif/main/wallpaper%20bielzao.gif?token=GHSAT0AAAAAACE6D7MAGNOTQWD7XLO4YHXKZFOAKSQ" width="600" height="300"/>
     </div>
-</div>f
+</div>
 
 ---
 
