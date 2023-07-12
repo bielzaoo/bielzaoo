@@ -29,4 +29,4 @@ I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBg
 
 - :seedling: Learning C and Windows Internals.
 
-- :zap: Playing CTF in HackTheBox and TryHackMe.
+- :zap: Playing CTF in HackTheBox and TryHackMe platforms.
