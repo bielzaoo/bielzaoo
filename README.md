@@ -50,4 +50,4 @@ I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBg
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bielzaoo&theme=gruvbox-duo&border_radius=4.4)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielzaoo&layout=compact&theme=gruvbox-duo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielzaoo&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
