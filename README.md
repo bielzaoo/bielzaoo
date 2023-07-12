@@ -35,3 +35,7 @@ I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBg
 - :zap: Playing CTF in HackTheBox and TryHackMe platforms.
 
 - :mailbox:To contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-219566178/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
