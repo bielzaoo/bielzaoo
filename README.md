@@ -23,4 +23,4 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me : I am a hacker <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="30"> from Brazil.
