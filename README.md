@@ -23,4 +23,10 @@
 
 ---
 
-### :man_technologist: About Me : I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> from Brazil.
+### :man_technologist: About Me :
+I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> from Brazil.
+- :telescope: Currently studying Software Engineering and Red Team | Pentest.
+
+- :seedling: Learning C and Windows Internals.
+
+- :zap: Playing CTF in HackTheBox and TryHackMe.
