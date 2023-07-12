@@ -11,7 +11,7 @@
             <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
         </a>
         <a href="https://instagram.com/bielzao7_?igshid=NGExMmI2YTkyZg==">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="TryHackMe Badge"/>
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=bielzaoo&style=flat-square&color=blue" alt=""/>
@@ -33,3 +33,5 @@ I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBg
 - :seedling: Learning C and Windows Internals.
 
 - :zap: Playing CTF in HackTheBox and TryHackMe platforms.
+
+- :mailbox:To contact me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-219566178/) or [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bielzao7_?igshid=NGExMmI2YTkyZg==)
