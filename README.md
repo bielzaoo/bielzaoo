@@ -10,6 +10,9 @@
         <a href="https://tryhackme.com/p/bielzao">
             <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
         </a>
+        <a href="https://instagram.com/bielzao7_?igshid=NGExMmI2YTkyZg==">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="TryHackMe Badge"/>
+        </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=bielzaoo&style=flat-square&color=blue" alt=""/>
     <h1>
