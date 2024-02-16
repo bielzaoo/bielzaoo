@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> from Brazil.
-- :telescope: Currently studying Software Engineering and Red Team | Pentest.
+- :telescope: Currently studying Programming and Red Team | Pentest.
 
 - :seedling: Learning Red Team | Pentesting and Programming.
 
