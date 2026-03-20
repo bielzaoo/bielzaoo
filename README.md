@@ -26,29 +26,14 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a hacker and programmer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> from Brazil.
-- :telescope: Currently studying Programming and Red Team | Pentest.
+### :man_technologist: Sobre mim:
+Olá! sou um Red Teamer/Pentester <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> carioca, atual moro no Rio de Janeiro, Brasil.
+- :telescope: Atualmente estudando Red Team | Pentest.
+- :seedling: No momento focado em aprimorar meus conhecimentos em Web Hacking.
+- :zap: Jogador de CTF em plataformas como TryHackMe e HackTheBox.
+- :mailbox: Caso queira entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/gabriel-jesus-bielzao/) or [Instagram](https://www.instagram.com/0xbielzao/)
 
-- :seedling: Learning Red Team | Pentesting and Programming.
-
-- :zap: Playing CTF in HackTheBox and TryHackMe platforms.
-
-- :mailbox:To contact me: [Linkedin](https://www.linkedin.com/in/gabriel-santos-219566178/) or [Instagram](https://instagram.com/bielzao7_?igshid=NGExMmI2YTkyZg==)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-</div>
+Aqui você encontrará papers meus sobre meus estudos em Red Team e Pentest.
 
 ---
 
