@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-██████╗ ██╗███████╗██╗     ███████╗ █████╗  ██████╗
-██╔══██╗██║██╔════╝██║        ███╔╝██╔══██╗██╔═══██╗
+██████╗ ██╗███████╗██╗     ███████╗ █████╗  ██████╗ 
+██╔══██╗██║██╔════╝██║     ╚══███╔╝██╔══██╗██╔═══██╗
 ██████╔╝██║█████╗  ██║       ███╔╝ ███████║██║   ██║
 ██╔══██╗██║██╔══╝  ██║      ███╔╝  ██╔══██║██║   ██║
 ██████╔╝██║███████╗███████╗███████╗██║  ██║╚██████╔╝
-╚═════╝ ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+╚═════╝ ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
 ```
 
 ### `$ whoami`
 
-**Gabriel Jesus** — Offensive Security | Red Team | Low-Level Enthusiast
+**Gabriel Santos** — Offensive Security | Red Team | Low-Level Enthusiast
 
 *Rio de Janeiro, Brasil 🇧🇷*
 
@@ -103,7 +103,6 @@ done
 ## `> cat experience.txt`
 
 ### 🏢 Pacific Security — *Trainee em Segurança Ofensiva*
-
 `Jun. 2024 – Jul. 2025 · Remoto`
 
 - Execução de pentests em aplicações **Web** e **APIs**, com foco em falhas de lógica de negócio de alto impacto
@@ -119,10 +118,17 @@ done
 > 🚩 Writeups de CTFs e projetos de Red Team disponíveis nos repositórios abaixo.
 
 Aqui você encontra:
-
 - **Writeups de máquinas** do HackTheBox & TryHackMe
 - **Projetos de Red Team** com foco em técnicas ofensivas avançadas
 - **Pesquisas sobre baixo nível** — memória, exploração de binários, assembly
+
+---
+
+## `> ls ./papers/`
+
+> 📄 Artigos técnicos e pesquisas em: [github.com/bielzaoo/papers](https://github.com/bielzaoo/papers)
+
+Aqui você encontra produções autorais sobre temas de segurança ofensiva, computação de baixo nível e pesquisa em Red Team — escritos com foco técnico e profundidade real.
 
 ---
 
@@ -145,6 +151,6 @@ Aqui você encontra:
 **`[ Red Team is not a checklist — it's a mindset ]`**
 
 *Conecte-se:*
-[LinkedIn](https://www.linkedin.com/in/gabriel-jesus-bielzao/) · [Instagram](https://www.instagram.com/0xbielzao) · [HackTheBox](https://profile.hackthebox.com/profile/019d944e-fca4-70c1-8be4-8985e900c2ae) · [TryHackMe](https://tryhackme.com/p/bielzao) · <gabrielsjesus2402@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/gabriel-jesus-bielzao/) · [Instagram](https://www.instagram.com/0xbielzao) · [HackTheBox](https://profile.hackthebox.com/profile/019d944e-fca4-70c1-8be4-8985e900c2ae) · [TryHackMe](https://tryhackme.com/p/bielzao) · gabrielsjesus2402@gmail.com
 
 </div>
