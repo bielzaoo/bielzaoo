@@ -11,7 +11,7 @@
 
 ### `$ whoami`
 
-**Gabriel Santos** — Offensive Security | Red Team | Low-Level Enthusiast
+**Gabriel Jesus** — Offensive Security | Red Team | Low-Level Enthusiast
 
 *Rio de Janeiro, Brasil 🇧🇷*
 
