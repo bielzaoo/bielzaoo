@@ -1,43 +1,150 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/gabriel-santos-219566178/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="https://app.hackthebox.com/profile/1382135">
-            <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox Badge"/>
-        </a>
-        <a href="https://tryhackme.com/p/bielzao">
-            <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
-        </a>
-        <a href="https://instagram.com/bielzao7_?igshid=NGExMmI2YTkyZg==">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-        </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=bielzaoo&style=flat-square&color=blue" alt=""/>
-    <h1>
-      Hey there!
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-    <div align="center">
-      <img src="https://github.com/bielzaoo/my_gif/blob/main/batman.gif" width="600" height="300"/>
-    </div>
+<div align="center">
+
+```
+██████╗ ██╗███████╗██╗     ███████╗ █████╗  ██████╗
+██╔══██╗██║██╔════╝██║        ███╔╝██╔══██╗██╔═══██╗
+██████╔╝██║█████╗  ██║       ███╔╝ ███████║██║   ██║
+██╔══██╗██║██╔══╝  ██║      ███╔╝  ██╔══██║██║   ██║
+██████╔╝██║███████╗███████╗███████╗██║  ██║╚██████╔╝
+╚═════╝ ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+```
+
+### `$ whoami`
+
+**Gabriel Santos** — Offensive Security | Red Team | Low-Level Enthusiast
+
+*Rio de Janeiro, Brasil 🇧🇷*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jesus-bielzao/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielzao)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d944e-fca4-70c1-8be4-8985e900c2ae)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bielzao)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsjesus2402@gmail.com)
+
 </div>
 
 ---
 
-### :man_technologist: Sobre mim:
-Olá! sou um Red Teamer/Pentester <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> carioca, atual moro no Rio de Janeiro, Brasil.
-- :telescope: Atualmente estudando Red Team | Pentest.
-- :seedling: No momento focado em aprimorar meus conhecimentos em Web Hacking.
-- :zap: Jogador de CTF em plataformas como TryHackMe e HackTheBox.
-- :mailbox: Caso queira entrar em contato comigo: [Linkedin](https://www.linkedin.com/in/gabriel-jesus-bielzao/) or [Instagram](https://www.instagram.com/0xbielzao/)
+## `> cat about.txt`
 
-Aqui você encontrará papers meus sobre meus estudos em Red Team e Pentest.
+```
+Profissional de segurança ofensiva com experiência prática em
+pentest web, pentest de APIs e mapeamento de ativos via OSINT.
+
+Minha abordagem vai além do checklist — foco em quebra de regras
+de negócio, impacto real e no desenvolvimento do "pensamento ofensivo":
+pensar como uma ameaça avançada de verdade, não como um script.
+
+Fascinado por computação de baixo nível — da arquitetura de hardware
+à memória, registradores e instruções que movem o mundo.
+
+Atualmente cursando 3 pós-graduações simultâneas:
+  [1] Segurança Ofensiva e Inteligência Cibernética
+  [2] Redes de Computadores e Segurança
+  [3] Ethical Hacking e Cybersecurity
+```
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bielzaoo&theme=dark&background=000000)](https://git.io/streak-stats)
+## `> ls ./skills/`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielzaoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+| 🔴 Offensive Security | 🔧 Infrastructure | 📄 Reporting |
+|---|---|---|
+| Pentest Web & API | Linux & Windows | Relatórios Técnicos |
+| OWASP Top 10 | Active Directory | Relatórios Executivos |
+| Business Logic Flaws | TCP/IP & Redes | CVSS Scoring |
+| OSINT & Recon | Metasploit | Mitigação & Remediação |
+| Attack-Case Planning | Burp Suite, FFUF, Nmap | Alinhamento c/ Stakeholders |
+
+</div>
+
+---
+
+## `> cat languages.sh`
+
+```bash
+#!/bin/bash
+# Linguagens estudadas — do alto ao baixo nível
+
+LANGUAGES=(
+  "Assembly   → Onde a mágica realmente acontece"
+  "C          → A linguagem que governa o mundo"
+  "C++        → Poder com responsabilidade"
+  "Rust       → O futuro do baixo nível (em andamento...)"
+  "C#         → .NET e além"
+  "Python     → Automação, exploits e scripts"
+  "JavaScript → Porque a web também é superfície de ataque"
+  "PHP        → Para entender o que se ataca"
+  "Lua        → Leveza e embedded"
+)
+
+for lang in "${LANGUAGES[@]}"; do
+  echo "  ✦ $lang"
+done
+```
+
+> **Web:** HTML · CSS
+
+---
+
+## `> cat certifications.log`
+
+```
+[2025-11] Active Directory Red Team Specialist ......... Cyberwarfare Labs ✔
+[2025-10] API Penetration Testing ...................... APIsec University  ✔
+[2025-01] Certified Exploit Development Professional ... Cyberwarfare Labs ✔
+[2024-02] Offensive Cybersecurity Program (60h) ........ Pacific Security  ✔
+```
+
+---
+
+## `> cat experience.txt`
+
+### 🏢 Pacific Security — *Trainee em Segurança Ofensiva*
+
+`Jun. 2024 – Jul. 2025 · Remoto`
+
+- Execução de pentests em aplicações **Web** e **APIs**, com foco em falhas de lógica de negócio de alto impacto
+- Elaboração de **attack-case plans**: mapeamento manual de objetivos de ataque antes de qualquer automação
+- Reconhecimento e mapeamento de superfície de ataque via **OSINT**
+- Produção de **relatórios técnicos** com achados, evidências, CVSS e recomendações de mitigação
+- Alinhamento direto com stakeholders sobre escopo, metodologia e resultados
+
+---
+
+## `> ls ./writeups/`
+
+> 🚩 Writeups de CTFs e projetos de Red Team disponíveis nos repositórios abaixo.
+
+Aqui você encontra:
+
+- **Writeups de máquinas** do HackTheBox & TryHackMe
+- **Projetos de Red Team** com foco em técnicas ofensivas avançadas
+- **Pesquisas sobre baixo nível** — memória, exploração de binários, assembly
+
+---
+
+## `> grep -r "mindset" ./philosophy.txt`
+
+```
+"Não basta saber as ferramentas.
+ Você precisa pensar como a ameaça.
+
+ Cada sistema tem uma lógica. Cada lógica tem uma brecha.
+ Meu trabalho é encontrá-la antes que alguém a explore."
+
+                              — Gabriel Santos
+```
+
+---
+
+<div align="center">
+
+**`[ Red Team is not a checklist — it's a mindset ]`**
+
+*Conecte-se:*
+[LinkedIn](https://www.linkedin.com/in/gabriel-jesus-bielzao/) · [Instagram](https://www.instagram.com/0xbielzao) · [HackTheBox](https://profile.hackthebox.com/profile/019d944e-fca4-70c1-8be4-8985e900c2ae) · [TryHackMe](https://tryhackme.com/p/bielzao) · <gabrielsjesus2402@gmail.com>
+
+</div>
